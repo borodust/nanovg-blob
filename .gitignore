@@ -1,0 +1,18 @@
+# lisp junk
+*.FASL
+*.fasl
+*.lisp-temp
+
+# emacs junk
+\#*
+*~
+.\#*
+
+# system dependent junk
+local/
+
+# macOS crap
+**/.DS_Store
+
+
+x86*/libglad.so*
